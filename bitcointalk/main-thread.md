@@ -7,9 +7,9 @@
 [img]http://i.imgur.com/4idmx8h.png[/img]
 [left]
 
-[size=13pt][b]What is Elastic?[/b][/size]
+[size=13pt][b]What is XEL?[/b][/size]
 
-[size=11pt]Elastic is an open-source project that aims to build the first decentralized supercomputer. Elastic has been developed over the last year or so and provides the infrastructure for a decentralized and distributed super computer, designed to carry out arbitrary tasks over the internet. In  this  context,  Elastic is  powered by a crypto currency (XEL) and provides a market-based mechanism to buy  and  sell computational  resources. Those  who need  computational  resources,  model  their  problem using Elastic’s programming language (Elastic PL) and broadcast it on the network, along with a certain amount of XEL coins. The Elastic miners are then motivated to offer their computational resources in exchange for a portion of those XEL coins. The size of their reward depends on the amount of work a miner has contributed in relation to the rest of the miners that have also participated in the task. Using XEL as the driving force, Elastic offers potential buyers a large parallel computation cluster composed of many CPUs and GPUs supplied by the miners.
+[size=11pt]XEL is an open-source project that aims to build the first decentralized supercomputer. XEL has been developed over the last year or so and provides the infrastructure for a decentralized and distributed super computer, designed to carry out arbitrary tasks over the internet. In  this  context,  XEL is  powered by a crypto currency (XEL) and provides a market-based mechanism to buy  and  sell computational  resources. Those  who need  computational  resources,  model  their  problem using Elastic’s programming language (Elastic PL) and broadcast it on the network, along with a certain amount of XEL coins. The Elastic miners are then motivated to offer their computational resources in exchange for a portion of those XEL coins. The size of their reward depends on the amount of work a miner has contributed in relation to the rest of the miners that have also participated in the task. Using XEL as the driving force, Elastic offers potential buyers a large parallel computation cluster composed of many CPUs and GPUs supplied by the miners.
 
 Visit our discord! : https://discord.gg/2yM2eES
 
